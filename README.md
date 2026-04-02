@@ -10,8 +10,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and integrating models into software that actually does something</li>
 
 > ⚡ **What keeps me hooked**  
-> AI is still my strongest foundation, and robotics is the newer direction I’m now exploring more seriously.  
-> What began with models is growing into an interest in systems that can actually sense, respond, and move.
+> AI is still my strongest foundation, and robotics is the newer direction I’m now exploring more seriously through real systems.  
+> What began with models is growing into an interest in systems that can actually sense, respond, and move in the real world.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
