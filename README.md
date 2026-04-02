@@ -1,12 +1,13 @@
+<img align="right" alt="Robotocat" width="230" src="./Robotocat-removedbg-preview.png" />
 # Hi 👋, I'm Aayush
 
 ### Building with AI, Growing through Robotics
 
 - 🧩 **Core build space:** AI/ML systems, computer vision pipelines, and ROS 2 robotics workflows  
 - 🚀 **Currently pushing into:** simulation-driven robotics, ROS 2, and tighter AI-to-robot integration  
-- 🤝 **Always open to:** practical projects across AI, robotics, perception, and real-world software  
+- 🤝 **Always open to:** practical projects across AI, robotics, perception, and real-world software                                         
 - 🛠️ **Sharpening further:** robotics architecture, scalable AI systems, and deployment-ready workflows  
-- 🗣️ <strong>Let’s talk about:</strong> perception-driven systems, intelligent pipelines, simulator-to-system workflows,<br>
+- 🗣️ <strong>Let’s talk about:</strong> perception-driven systems, intelligent pipelines, simulator-to-system workflows,<br>                                         
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and integrating models into software that actually does something</li>
 
 > ⚡ **What keeps me hooked**  
@@ -52,12 +53,3 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-name: Half-year calendar
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
