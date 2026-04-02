@@ -1,12 +1,11 @@
-# Hi 👋, I'm Aayush
-
+# Hi, I'm Aayush<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="75" height="75" align="absmiddle" />
 ### Building with AI, Growing through Robotics
 
 - 🧩 **Core build space:** AI/ML systems, computer vision pipelines, and ROS 2 robotics workflows  
 - 🚀 **Currently pushing into:** simulation-driven robotics, ROS 2, and tighter AI-to-robot integration  
 - 🤝 **Always open to:** practical projects across AI, robotics, perception, and real-world software                                         
 - 🛠️ **Sharpening further:** robotics architecture, scalable AI systems, and deployment-ready workflows  
-- 🗣️ <strong>Let’s talk about:</strong> perception-driven systems, intelligent pipelines, simulator-to-system workflows,<br>                                         
+- 🗣️ <strong>Let’s talk about:</strong> perception-driven systems, intelligent pipelines, simulator-to-system workflows,                                      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and integrating models into software that actually does something</li>
 
 > ⚡ **What keeps me hooked**  
@@ -19,8 +18,6 @@
 <a href="https://www.linkedin.com/in/aayush-kumar-446294305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AAYUSH KUMAR" height="30" width="40" /></a>
 <a href="mailto:aayush19053000@gmail.com" target="blank"><img align="center" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2631%2FPNG%2F512%2Fgmail_new_logo_icon_159149.png&id=159149&pack_or_individual=pack" alt="aayush19053000@gmail.com" height="38" width="38" style="position: relative; top: 3px;" /></a>
 </p>
-
-<img align="right" alt="Robotocat" width="200" src="https://raw.githubusercontent.com/tony19053000/tony19053000/main/Robotocat.png" />
 
 <h3 align="left">Languages and Tools:</h3>
 
