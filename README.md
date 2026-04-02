@@ -9,10 +9,12 @@
 - 🗣️ <strong>Let’s talk about:</strong> perception-driven systems, intelligent pipelines, simulator-to-system workflows,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and integrating models into software that actually does something</li>
 
-> ⚡ **What keeps me hooked**  
-> AI is my core space, and robotics is the newer layer I’ve started exploring more seriously.  
-> What began with models is slowly turning into an interest in systems that can actually sense, respond, and move.
- 
+<blockquote>
+  <strong>⚡ What keeps me hooked</strong><br><br>
+  AI is still my strongest foundation, and robotics is the newer direction I’ve started exploring more seriously through systems and simulation.<br>
+  What began with models is now growing into an interest in building systems that can actually sense, respond, and behave in the real world.
+</blockquote>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/tony19053000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tony19053000" height="30" width="40" /></a>
