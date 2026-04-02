@@ -3,17 +3,11 @@
 ### Building with AI, Growing through Robotics
 
 - 🔭 I'm currently working on **AI/ML systems, computer vision, and ROS 2 robotics workflows**
-
 - 🌱 I'm currently learning **ROS 2, simulation-based robotics, and AI-to-robot integration**
-
 - 👯 I'm looking to collaborate on **AI/ML, computer vision, robotics, and practical software projects**
-
 - 🤝 I'm looking for help with **Robotics architecture, scalable AI systems, and deployment**
-
 - 💬 Ask me about **Machine learning, deep learning, computer vision, GenAI, LLMs, and ROS 2**
-
 - 📫 How to reach me **aayush19053000@gmail.com**
-
 - ⚡ Fun fact **I started by building AI systems, then stepped into robotics—and now I enjoy debugging models and robots with the same level of obsession.**
 
 <h3 align="left">Connect with me:</h3>
