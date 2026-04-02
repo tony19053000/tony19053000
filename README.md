@@ -16,10 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/tony19053000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="tony19053000" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/AAYUSH KUMAR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AAYUSH KUMAR" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aayush-kumar-446294305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="AAYUSH KUMAR" height="30" width="40" /></a>
+<a href="mailto:aayush19053000@gmail.com" target="blank"><img align="center" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2631%2FPNG%2F512%2Fgmail_new_logo_icon_159149.png&id=159149&pack_or_individual=pack" alt="aayush19053000@gmail.com" height="38" width="38" style="position: relative; top: 3px;" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -53,3 +52,12 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
