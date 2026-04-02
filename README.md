@@ -1,4 +1,4 @@
-<img align="right" alt="Robotocat" width="230" src="./Robotocat-removedbg-preview.png" />
+<img align="right" alt="Robotocat" width="230" src="https://raw.githubusercontent.com/tony19053000/tony19053000/main/Robotocat.png" />
 # Hi 👋, I'm Aayush
 
 ### Building with AI, Growing through Robotics
