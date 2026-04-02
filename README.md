@@ -1,4 +1,4 @@
-# Hi, I'm Aayush<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="50" height="50" align="absmiddle" />
+# Hi 👋, I'm Aayush<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Smiling%20Face%20With%20Sunglasses.webp" alt="Smiling Face With Sunglasses" width="60" height="60" align="absmiddle" />
 ### Building with AI, Growing through Robotics
 
 - 🧩 **Core build space:** AI/ML systems, computer vision pipelines, and ROS 2 robotics workflows  
