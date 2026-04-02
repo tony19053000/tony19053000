@@ -9,11 +9,9 @@
 - 🗣️ <strong>Let’s talk about:</strong> perception-driven systems, intelligent pipelines, simulator-to-system workflows,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and integrating models into software that actually does something</li>
 
-<blockquote>
-  <strong>⚡ What keeps me hooked</strong><br><br>
-  AI is still my strongest foundation, and robotics is the newer direction I’m now exploring more seriously.<br>
-  What began with models is growing into an interest in systems that can actually sense, respond, and move in the real world.
-</blockquote>
+> ⚡ **What keeps me hooked**  
+> AI is still my strongest foundation, and robotics is the newer direction I’m now exploring more seriously.  
+> What began with models is growing into an interest in systems that can actually sense, respond, and move.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
