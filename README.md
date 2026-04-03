@@ -8,7 +8,7 @@
 - 🗣️ <strong>Let’s talk about:</strong> perception-driven systems, intelligent pipelines, simulator-to-system workflows,                                      
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and integrating models into software that actually does something</li>
 
-> ⚡ **What keeps me hooked**  
+> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" align="absmiddle"/> **What keeps me hooked**  
 > AI is still my strongest foundation, and robotics is the newer direction I’m now exploring more seriously through real systems.  
 > What began with models is growing into an interest in systems that can actually sense, respond, and move in the real world.
 
@@ -19,7 +19,7 @@
 <a href="mailto:aayush19053000@gmail.com" target="blank"><img align="center" src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2631%2FPNG%2F512%2Fgmail_new_logo_icon_159149.png&id=159149&pack_or_individual=pack" alt="aayush19053000@gmail.com" height="38" width="38" style="position: relative; top: 3px;" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="40" height="40" align="absmiddle"/>Languages and Tools:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
